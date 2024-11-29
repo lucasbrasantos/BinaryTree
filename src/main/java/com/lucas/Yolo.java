@@ -2,7 +2,7 @@ package com.lucas;
 
 public class Yolo {
 
-  public yolo(){
+  public Yolo(){
     System.out.println("Yolo");
   }
   
