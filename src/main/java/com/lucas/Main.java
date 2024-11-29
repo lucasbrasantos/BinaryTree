@@ -20,7 +20,5 @@ public class Main {
 //        Tree mainTree = new Tree(randomValues);
         Tree mainTree = new Tree(values2);
         mainTree.printTree();
-
-        System.out.println("\n\n-- Tree printed --");
     }
 }
